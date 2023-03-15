@@ -1,7 +1,7 @@
 # Flower shop application
 __________________________________
 
-This is a flower shop website for software engineering 2 classes.
+A fullstack flower shop website.
 
 ## Prerequisites
 ___
